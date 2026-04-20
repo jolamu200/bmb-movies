@@ -30,7 +30,7 @@ function LoginPage() {
     return (
         <PageLayout>
             <AuthCard
-                title="Welcome to Miko"
+                title="Welcome to Bmb Tech Movies"
                 subtitle="Sign in to access your watchlist and preferences"
                 error={errorMessage}
                 dividerText="or continue with email"
