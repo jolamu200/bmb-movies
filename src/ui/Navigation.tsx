@@ -59,9 +59,9 @@ function Logo() {
     const { logo, logoIcon } = styles();
 
     return (
-        <Link to="/" className={logo()} aria-label="Miko">
+        <Link to="/" className={logo()} aria-label="Bmbtech">
             <Icon icon="mdi:play-circle" className={logoIcon()} />
-            Miko
+            Bmbtech
         </Link>
     );
 }
