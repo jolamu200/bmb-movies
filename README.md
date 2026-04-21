@@ -1,1 +1,1 @@
-https://miko-bmb-tech.vercel.app/
+https://movie-bmb-tech.vercel.app/
